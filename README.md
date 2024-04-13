@@ -1,4 +1,4 @@
-##**fruit image recognition - the first step in machine learning**
+## **fruit image recognition - the first step in machine learning**##
 
 Designing a simple **convolutional neural network (CNN) model** for fruit image classification – bananas and oranges – using the **Keras** library in TensorFlow. The code is an example of the process of creating, training, and using the model.
 
